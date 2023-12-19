@@ -1,12 +1,16 @@
-<p align="center"><a href="Yasi-web.my.id" target="_blank"><img src="https://github.com/ToebagusFarhan/YASI-WEB/assets/128769878/ea27a26a-c2f2-49db-802b-de1ef8ad825a
-" width="400" alt="YASI Logo"></a></p>
+<p align="center"><img src="https://github.com/ToebagusFarhan/YASI-WEB/assets/128769878/ea27a26a-c2f2-49db-802b-de1ef8ad825a" width="256" alt="YASI Logo"></p>
 
 <p align="center">
-<a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
+<a href="https://opensource.org/licenses/MIT"><img src="https://github.com/ToebagusFarhan/YASI-WEB/assets/128769878/7df521f2-c9be-41d2-8071-922445a43adc" width="128" alt="License"></a>
+<a href="http://yasi-web.my.id"><img src="https://github.com/ToebagusFarhan/YASI-WEB/assets/128769878/4d081620-0a1e-492f-b68a-10f653146dfc" width="128"alt="License"></a>
+<a href="http://yasi-web.my.id"><img src="https://github.com/ToebagusFarhan/YASI-WEB/assets/128769878/8f724c7f-1ff1-4e70-ad3e-947d94875e8a" width="128"alt="License"></a>
 </p>
+
+
+
+
+
+
 
 ## About This Project
 
