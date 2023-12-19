@@ -19,15 +19,15 @@ Aplikasi ini masih dalam pengembangan sehingga mungkin tidak bisa memenuhi ekspe
 Project Leader:</br>
 Tb Muhammad Farhan Adnan (3337220038)</br>
 Project Member:</br>
-Reza Hatta Pratama(3337220018)
-Adelia Saputri(3337220009)
-Ammara Mufida Silmi(3337220081)
-Husyen Ali Al Habsy(3337220007)
-M Syahril Ridho(3337220101)
-Nuraisyah Safety Permata(3337220068)
-Rifdatun Nafi'ah(3337220075)
-Ryan Rafael Nainggolan(3337220036)
-Voully Abdullah Zhacque(3337220066)
+Reza Hatta Pratama(3337220018)</br>
+Adelia Saputri(3337220009)</br>
+Ammara Mufida Silmi(3337220081)</br>
+Husyen Ali Al Habsy(3337220007)</br>
+M Syahril Ridho(3337220101)</br>
+Nuraisyah Safety Permata(3337220068)</br>
+Rifdatun Nafi'ah(3337220075)</br>
+Ryan Rafael Nainggolan(3337220036)</br>
+Voully Abdullah Zhacque(3337220066)</br>
 
 ## License
 
