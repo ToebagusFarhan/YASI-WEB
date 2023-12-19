@@ -1,10 +1,12 @@
-<p align="center"><img src="https://github.com/ToebagusFarhan/YASI-WEB/assets/128769878/ea27a26a-c2f2-49db-802b-de1ef8ad825a" width="256" alt="YASI Logo"></p>
+<p align="center"><img src="https://github.com/ToebagusFarhan/YASI-WEB/assets/128769878/b012e904-63c5-4412-9a69-36137e584d28" width="256" alt="YASI Logo"></p>
 
 <p align="center">
 <a href="https://opensource.org/licenses/MIT"><img src="https://github.com/ToebagusFarhan/YASI-WEB/assets/128769878/7df521f2-c9be-41d2-8071-922445a43adc" width="128" alt="License"></a>
 <a href="http://yasi-web.my.id"><img src="https://github.com/ToebagusFarhan/YASI-WEB/assets/128769878/4d081620-0a1e-492f-b68a-10f653146dfc" width="128"alt="License"></a>
 <a href="http://yasi-web.my.id"><img src="https://github.com/ToebagusFarhan/YASI-WEB/assets/128769878/8f724c7f-1ff1-4e70-ad3e-947d94875e8a" width="128"alt="License"></a>
 </p>
+
+
 
 
 
