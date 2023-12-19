@@ -1,4 +1,5 @@
-<p align="center"><a href="Yasi-web.my.id" target="_blank"><img src="https://imgur.com/a/GTFFBDA" width="400" alt="YASI Logo"></a></p>
+<p align="center"><a href="Yasi-web.my.id" target="_blank"><img src="https://github.com/ToebagusFarhan/YASI-WEB/assets/128769878/ea27a26a-c2f2-49db-802b-de1ef8ad825a
+" width="400" alt="YASI Logo"></a></p>
 
 <p align="center">
 <a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
