@@ -102,7 +102,7 @@
                             <div class="portfolio-item-caption-content text-center text-white"><i
                                     class="fas fa-plus fa-3x"></i></div>
                         </div>
-                        <img class="img-fluid" src="front/landing/assets/img/Teams/tb.jpg" alt="..." />
+                        <img class="img-fluid" src="front/landing/assets/img/Teams/Sen.jpg" alt="..." />
                     </div>
                 </div>
                 <!-- Portfolio Item 4-->
@@ -124,7 +124,7 @@
                             <div class="portfolio-item-caption-content text-center text-white"><i
                                     class="fas fa-plus fa-3x"></i></div>
                         </div>
-                        <img class="img-fluid" src="front/landing/assets/img/Teams/tb.jpg" alt="..." />
+                        <img class="img-fluid" src="front/landing/assets/img/Teams/reza.jpg" alt="..." />
                     </div>
                 </div>
                 <!-- Portfolio Item 6-->
@@ -348,7 +348,7 @@
                                     <div class="divider-custom-line"></div>
                                 </div>
                                 <!-- Portfolio Modal - Image-->
-                                <img class="img-fluid rounded mb-5" src="front/landing/assets/img/Teams/tb.jpg"
+                                <img class="img-fluid rounded mb-5" src="front/landing/assets/img/Teams/Sen.jpg"
                                     width="250" height="250" alt="Ngademin" />
                                 <!-- Portfolio Modal - Text-->
                                 <p class="mb-4">Bread <i class="fa-regular fa-thumbs-up"></i></p>
@@ -375,8 +375,8 @@
                         <div class="row justify-content-center">
                             <div class="col-lg-8">
                                 <!-- Portfolio Modal - Title-->
-                                <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0">Muhamad Syahril
-                                    Ridho</h2>
+                                <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0">Tb Muhammad Farhan
+                                    Adnan</h2>
                                 <!-- Icon Divider-->
                                 <div class="divider-custom">
                                     <div class="divider-custom-line"></div>
@@ -420,7 +420,7 @@
                                     <div class="divider-custom-line"></div>
                                 </div>
                                 <!-- Portfolio Modal - Image-->
-                                <img class="img-fluid rounded mb-5" src="front/landing/assets/img/Teams/tb.jpg"
+                                <img class="img-fluid rounded mb-5" src="front/landing/assets/img/Teams/reza.jpg"
                                     width="250" height="250" alt="Ngademin" />
                                 <!-- Portfolio Modal - Text-->
                                 <p class="mb-4">Bread <i class="fa-regular fa-thumbs-up"></i></p>
@@ -520,7 +520,8 @@
                         <div class="row justify-content-center">
                             <div class="col-lg-8">
                                 <!-- Portfolio Modal - Title-->
-                                <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0">Adelia Saputri</h2>
+                                <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0">Muhamad Syahril
+                                    Ridho</h2>
                                 <!-- Icon Divider-->
                                 <div class="divider-custom">
                                     <div class="divider-custom-line"></div>
@@ -591,9 +592,7 @@
                         <div class="row justify-content-center">
                             <div class="col-lg-8">
                                 <!-- Portfolio Modal - Title-->
-                                <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0">
-                                    Tb Muhammad Farhan Adnan
-                                </h2>
+                                <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0">Adelia Saputri</h2>
                                 <!-- Icon Divider-->
                                 <div class="divider-custom">
                                     <div class="divider-custom-line"></div>
