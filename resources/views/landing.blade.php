@@ -17,6 +17,7 @@
         type="text/css" />
     <!-- Core theme CSS (includes Bootstrap)-->
     <link href="{{ asset('front/landing/css/styles.css')}}" rel="stylesheet" />
+
 </head>
 
 <body id="page-top">
@@ -72,113 +73,113 @@
             <!-- Portfolio Grid Items-->
             <div class="row justify-content-center">
                 <!-- Portfolio Item 1-->
-                <div class="col-md-6 col-lg-4 mb-5 ">
+                <div class="col-md-4 col-lg-3 mb-4 ">
                     <div class="portfolio-item mx-auto" data-bs-toggle="modal" data-bs-target="#portfolioModal1">
                         <div
                             class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
                             <div class="portfolio-item-caption-content text-center text-white"><i
                                     class="fas fa-plus fa-3x"></i></div>
                         </div>
-                        <img class="img-fluid" src="assets/img/portfolio/cabin.png" alt="..." />
+                        <img class="img-fluid" src="front/landing/assets/img/Teams/tb.jpg" alt="..." />
                     </div>
                 </div>
                 <!-- Portfolio Item 2-->
-                <div class="col-md-6 col-lg-4 mb-5 ">
+                <div class="col-md-4 col-lg-3 mb-4 ">
                     <div class="portfolio-item mx-auto" data-bs-toggle="modal" data-bs-target="#portfolioModal2">
                         <div
                             class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
                             <div class="portfolio-item-caption-content text-center text-white"><i
                                     class="fas fa-plus fa-3x"></i></div>
                         </div>
-                        <img class="img-fluid" src="assets/img/portfolio/cake.png" alt="..." />
+                        <img class="img-fluid" src="front/landing/assets/img/Teams/tb.jpg" alt="..." />
                     </div>
                 </div>
                 <!-- Portfolio Item 3-->
-                <div class="col-md-6 col-lg-4 mb-5 ">
+                <div class="col-md-4 col-lg-3 mb-4 ">
                     <div class="portfolio-item mx-auto" data-bs-toggle="modal" data-bs-target="#portfolioModal3">
                         <div
                             class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
                             <div class="portfolio-item-caption-content text-center text-white"><i
                                     class="fas fa-plus fa-3x"></i></div>
                         </div>
-                        <img class="img-fluid" src="assets/img/portfolio/circus.png" alt="..." />
+                        <img class="img-fluid" src="front/landing/assets/img/Teams/tb.jpg" alt="..." />
                     </div>
                 </div>
                 <!-- Portfolio Item 4-->
-                <div class="col-md-6 col-lg-4 mb-5 ">
+                <div class="col-md-4 col-lg-3 mb-4 ">
                     <div class="portfolio-item mx-auto" data-bs-toggle="modal" data-bs-target="#portfolioModal4">
                         <div
                             class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
                             <div class="portfolio-item-caption-content text-center text-white"><i
                                     class="fas fa-plus fa-3x"></i></div>
                         </div>
-                        <img class="img-fluid" src="assets/img/portfolio/game.png" alt="..." />
+                        <img class="img-fluid" src="front/landing/assets/img/Teams/tb.jpg" alt="..." />
                     </div>
                 </div>
                 <!-- Portfolio Item 5-->
-                <div class="col-md-6 col-lg-4 mb-5 ">
+                <div class="col-md-4 col-lg-3 mb-4 ">
                     <div class="portfolio-item mx-auto" data-bs-toggle="modal" data-bs-target="#portfolioModal5">
                         <div
                             class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
                             <div class="portfolio-item-caption-content text-center text-white"><i
                                     class="fas fa-plus fa-3x"></i></div>
                         </div>
-                        <img class="img-fluid" src="assets/img/portfolio/safe.png" alt="..." />
+                        <img class="img-fluid" src="front/landing/assets/img/Teams/tb.jpg" alt="..." />
                     </div>
                 </div>
                 <!-- Portfolio Item 6-->
-                <div class="col-md-6 col-lg-4 mb-5 ">
+                <div class="col-md-4 col-lg-3 mb-4 ">
                     <div class="portfolio-item mx-auto" data-bs-toggle="modal" data-bs-target="#portfolioModal6">
                         <div
                             class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
                             <div class="portfolio-item-caption-content text-center text-white"><i
                                     class="fas fa-plus fa-3x"></i></div>
                         </div>
-                        <img class="img-fluid" src="assets/img/portfolio/submarine.png" alt="..." />
+                        <img class="img-fluid" src="front/landing/assets/img/Teams/tb.jpg" alt="..." />
                     </div>
                 </div>
                 <!-- Portfolio Item 7-->
-                <div class="col-md-6 col-lg-4 mb-5  ">
+                <div class="col-md-4 col-lg-3 mb-4">
                     <div class="portfolio-item mx-auto" data-bs-toggle="modal" data-bs-target="#portfolioModal7">
                         <div
                             class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
                             <div class="portfolio-item-caption-content text-center text-white"><i
                                     class="fas fa-plus fa-3x"></i></div>
                         </div>
-                        <img class="img-fluid" src="assets/img/portfolio/item7.png" alt="..." />
+                        <img class="img-fluid" src="front/landing/assets/img/Teams/tb.jpg" alt="" alt="..." />
                     </div>
                 </div>
                 <!-- Portfolio Item 8-->
-                <div class="col-md-6 col-lg-4 mb-5 ">
+                <div class="col-md-4 col-lg-3 mb-4 ">
                     <div class="portfolio-item mx-auto" data-bs-toggle="modal" data-bs-target="#portfolioModal8">
                         <div
                             class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
                             <div class="portfolio-item-caption-content text-center text-white"><i
                                     class="fas fa-plus fa-3x"></i></div>
                         </div>
-                        <img class="img-fluid" src="assets/img/portfolio/item8.png" alt="..." />
+                        <img class="img-fluid" src="front/landing/assets/img/Teams/tb.jpg" alt="..." />
                     </div>
                 </div>
                 <!-- Portfolio Item 9-->
-                <div class="col-md-6 col-lg-4 mb-5 ">
+                <div class="col-md-4 col-lg-3 mb-4 ">
                     <div class="portfolio-item mx-auto" data-bs-toggle="modal" data-bs-target="#portfolioModal9">
                         <div
                             class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
                             <div class="portfolio-item-caption-content text-center text-white"><i
                                     class="fas fa-plus fa-3x"></i></div>
                         </div>
-                        <img class="img-fluid" src="assets/img/portfolio/item9.png" alt="..." />
+                        <img class="img-fluid" src="front/landing/assets/img/Teams/tb.jpg" alt="..." />
                     </div>
                 </div>
                 <!-- Portfolio Item 10-->
-                <div class="col-md-6 col-lg-4 mb-5 ">
+                <div class="col-md-4 col-lg-3 mb-4 ">
                     <div class="portfolio-item mx-auto" data-bs-toggle="modal" data-bs-target="#portfolioModal10">
                         <div
                             class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
                             <div class="portfolio-item-caption-content text-center text-white"><i
                                     class="fas fa-plus fa-3x"></i></div>
                         </div>
-                        <img class="img-fluid" src="assets/img/portfolio/item10.png" alt="..." />
+                        <img class="img-fluid" src="front/landing/assets/img/Teams/tb.jpg" alt="..." />
                     </div>
                 </div>
             </div>
@@ -197,15 +198,14 @@
             </div>
             <!-- About Section Content-->
             <div class="row">
-                <div class="col-lg-4 ms-auto">
-                    <p class="lead">YASI atau Yet Another Signal Info adalah sebuah aplikasi yang memberikan info
+                <div class="col-lg-6 mx-auto text-center">
+                    <p class="lead text-justify">YASI atau Yet Another Signal Info adalah sebuah aplikasi yang
+                        memberikan info
                         tentang kekuatan dari sinyal atau jaringan setiap provider di setiap lokasi. Semua informasi
                         didapat dari user, sehingga aplikasi ini dapat dikatakan sebagai aplikasi dari user untuk user.
+                        Dengan YASI user dapat memilih provider jaringan yang terbaik untuk digunakan di
+                        lingkungannya.
                     </p>
-                </div>
-                <div class="col-lg-4 me-auto">
-                    <p class="lead">Dengan YASI user dapat memilih provider jaringan yang terbaik untuk digunakan di
-                        lingkungannya.</p>
                 </div>
             </div>
             <!-- About Section Button-->
@@ -233,13 +233,10 @@
                 </div>
                 <!-- Footer Social Icons-->
                 <div class="col-lg-4 mb-5 mb-lg-0">
-                    <h4 class="text-uppercase mb-4">Socials</h4>
-                    <a class="btn btn-outline-light btn-social mx-1" href="#!"><i
-                            class="fab fa-fw fa-facebook-f"></i></a>
-                    <a class="btn btn-outline-light btn-social mx-1" href="#!"><i class="fab fa-fw fa-twitter"></i></a>
-                    <a class="btn btn-outline-light btn-social mx-1" href="#!"><i
-                            class="fab fa-fw fa-linkedin-in"></i></a>
-                    <a class="btn btn-outline-light btn-social mx-1" href="#!"><i class="fab fa-fw fa-dribbble"></i></a>
+                    <h4 class="text-uppercase mb-4">Github</h4>
+                    <a class="btn btn-outline-light btn-social mx-1"
+                        href="https://github.com/ToebagusFarhan/YASI-APP"><i class="fab fa-fw fa-github"></i></a>
+                    <p>YASI APP</p>
                 </div>
                 <!-- Footer About Text-->
                 <div class="col-lg-4">
@@ -279,12 +276,10 @@
                                     <div class="divider-custom-line"></div>
                                 </div>
                                 <!-- Portfolio Modal - Image-->
-                                <img class="img-fluid rounded mb-5" src="assets/img/portfolio/cabin.png" alt="..." />
+                                <img class="img-fluid rounded mb-5" src="front/landing/assets/img/Teams/tb.jpg"
+                                    width="250" height="250" alt="Ngademin" />
                                 <!-- Portfolio Modal - Text-->
-                                <p class="mb-4">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque
-                                    assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam
-                                    velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
-                                </p>
+                                <p class="mb-4">Bread <i class="fa-regular fa-thumbs-up"></i></p>
                                 <button class="btn btn-primary" data-bs-dismiss="modal">
                                     <i class="fas fa-xmark fa-fw"></i>
                                     Close Window
@@ -317,12 +312,10 @@
                                     <div class="divider-custom-line"></div>
                                 </div>
                                 <!-- Portfolio Modal - Image-->
-                                <img class="img-fluid rounded mb-5" src="assets/img/portfolio/cake.png" alt="..." />
+                                <img class="img-fluid rounded mb-5" src="front/landing/assets/img/Teams/tb.jpg"
+                                    width="250" height="250" alt="Ngademin" />
                                 <!-- Portfolio Modal - Text-->
-                                <p class="mb-4">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque
-                                    assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam
-                                    velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
-                                </p>
+                                <p class="mb-4">Bread <i class="fa-regular fa-thumbs-up"></i></p>
                                 <button class="btn btn-primary" data-bs-dismiss="modal">
                                     <i class="fas fa-xmark fa-fw"></i>
                                     Close Window
@@ -346,7 +339,8 @@
                         <div class="row justify-content-center">
                             <div class="col-lg-8">
                                 <!-- Portfolio Modal - Title-->
-                                <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0">Husyen Ali</h2>
+                                <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0">Husyen Ali Al Habsy
+                                </h2>
                                 <!-- Icon Divider-->
                                 <div class="divider-custom">
                                     <div class="divider-custom-line"></div>
@@ -354,12 +348,10 @@
                                     <div class="divider-custom-line"></div>
                                 </div>
                                 <!-- Portfolio Modal - Image-->
-                                <img class="img-fluid rounded mb-5" src="assets/img/portfolio/circus.png" alt="..." />
+                                <img class="img-fluid rounded mb-5" src="front/landing/assets/img/Teams/tb.jpg"
+                                    width="250" height="250" alt="Ngademin" />
                                 <!-- Portfolio Modal - Text-->
-                                <p class="mb-4">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque
-                                    assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam
-                                    velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
-                                </p>
+                                <p class="mb-4">Bread <i class="fa-regular fa-thumbs-up"></i></p>
                                 <button class="btn btn-primary" data-bs-dismiss="modal">
                                     <i class="fas fa-xmark fa-fw"></i>
                                     Close Window
@@ -392,12 +384,10 @@
                                     <div class="divider-custom-line"></div>
                                 </div>
                                 <!-- Portfolio Modal - Image-->
-                                <img class="img-fluid rounded mb-5" src="assets/img/portfolio/game.png" alt="..." />
+                                <img class="img-fluid rounded mb-5" src="front/landing/assets/img/Teams/tb.jpg"
+                                    width="250" height="250" alt="Ngademin" />
                                 <!-- Portfolio Modal - Text-->
-                                <p class="mb-4">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque
-                                    assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam
-                                    velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
-                                </p>
+                                <p class="mb-4">Bread <i class="fa-regular fa-thumbs-up"></i></p>
                                 <button class="btn btn-primary" data-bs-dismiss="modal">
                                     <i class="fas fa-xmark fa-fw"></i>
                                     Close Window
@@ -430,12 +420,10 @@
                                     <div class="divider-custom-line"></div>
                                 </div>
                                 <!-- Portfolio Modal - Image-->
-                                <img class="img-fluid rounded mb-5" src="assets/img/portfolio/safe.png" alt="..." />
+                                <img class="img-fluid rounded mb-5" src="front/landing/assets/img/Teams/tb.jpg"
+                                    width="250" height="250" alt="Ngademin" />
                                 <!-- Portfolio Modal - Text-->
-                                <p class="mb-4">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque
-                                    assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam
-                                    velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
-                                </p>
+                                <p class="mb-4">Bread <i class="fa-regular fa-thumbs-up"></i></p>
                                 <button class="btn btn-primary" data-bs-dismiss="modal">
                                     <i class="fas fa-xmark fa-fw"></i>
                                     Close Window
@@ -459,7 +447,8 @@
                         <div class="row justify-content-center">
                             <div class="col-lg-8">
                                 <!-- Portfolio Modal - Title-->
-                                <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0">TB Muhammad Farhan
+                                <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0">
+                                    Nuraisyah Safety Permata
                                 </h2>
                                 <!-- Icon Divider-->
                                 <div class="divider-custom">
@@ -468,13 +457,10 @@
                                     <div class="divider-custom-line"></div>
                                 </div>
                                 <!-- Portfolio Modal - Image-->
-                                <img class="img-fluid rounded mb-5" src="assets/img/portfolio/submarine.png"
-                                    alt="..." />
+                                <img class="img-fluid rounded mb-5" src="front/landing/assets/img/Teams/tb.jpg"
+                                    width="250" height="250" alt="Ngademin" />
                                 <!-- Portfolio Modal - Text-->
-                                <p class="mb-4">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque
-                                    assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam
-                                    velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
-                                </p>
+                                <p class="mb-4">Bread <i class="fa-regular fa-thumbs-up"></i></p>
                                 <button class="btn btn-primary" data-bs-dismiss="modal">
                                     <i class="fas fa-xmark fa-fw"></i>
                                     Close Window
@@ -507,9 +493,10 @@
                                     <div class="divider-custom-line"></div>
                                 </div>
                                 <!-- Portfolio Modal - Image-->
-                                <img class="img-fluid rounded mb-5" src="assets/img/portfolio/item7.png" alt="..." />
+                                <img class="img-fluid rounded mb-5" src="front/landing/assets/img/Teams/tb.jpg"
+                                    width="250" height="250" alt="Ngademin" />
                                 <!-- Portfolio Modal - Text-->
-                                <p class="mb-4">Description for Item 7</p>
+                                <p class="mb-4">Bread <i class="fa-regular fa-thumbs-up"></i></p>
                                 <button class="btn btn-primary" data-bs-dismiss="modal">
                                     <i class="fas fa-xmark fa-fw"></i>
                                     Close Window
@@ -533,7 +520,7 @@
                         <div class="row justify-content-center">
                             <div class="col-lg-8">
                                 <!-- Portfolio Modal - Title-->
-                                <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0">Adelia saputri</h2>
+                                <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0">Adelia Saputri</h2>
                                 <!-- Icon Divider-->
                                 <div class="divider-custom">
                                     <div class="divider-custom-line"></div>
@@ -541,9 +528,10 @@
                                     <div class="divider-custom-line"></div>
                                 </div>
                                 <!-- Portfolio Modal - Image-->
-                                <img class="img-fluid rounded mb-5" src="assets/img/portfolio/item8.png" alt="..." />
+                                <img class="img-fluid rounded mb-5" src="front/landing/assets/img/Teams/tb.jpg"
+                                    width="250" height="250" alt="Ngademin" />
                                 <!-- Portfolio Modal - Text-->
-                                <p class="mb-4">Description for Item 8</p>
+                                <p class="mb-4">Bread <i class="fa-regular fa-thumbs-up"></i></p>
                                 <button class="btn btn-primary" data-bs-dismiss="modal">
                                     <i class="fas fa-xmark fa-fw"></i>
                                     Close Window
@@ -576,9 +564,10 @@
                                     <div class="divider-custom-line"></div>
                                 </div>
                                 <!-- Portfolio Modal - Image-->
-                                <img class="img-fluid rounded mb-5" src="assets/img/portfolio/item9.png" alt="..." />
+                                <img class="img-fluid rounded mb-5" src="front/landing/assets/img/Teams/tb.jpg"
+                                    width="250" height="250" alt="Ngademin" />
                                 <!-- Portfolio Modal - Text-->
-                                <p class="mb-4">Description for Item 9</p>
+                                <p class="mb-4">Bread <i class="fa-regular fa-thumbs-up"></i></p>
                                 <button class="btn btn-primary" data-bs-dismiss="modal">
                                     <i class="fas fa-xmark fa-fw"></i>
                                     Close Window
@@ -602,8 +591,9 @@
                         <div class="row justify-content-center">
                             <div class="col-lg-8">
                                 <!-- Portfolio Modal - Title-->
-                                <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0">Nuraisyah Safety
-                                    Permata</h2>
+                                <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0">
+                                    Tb Muhammad Farhan Adnan
+                                </h2>
                                 <!-- Icon Divider-->
                                 <div class="divider-custom">
                                     <div class="divider-custom-line"></div>
@@ -611,9 +601,10 @@
                                     <div class="divider-custom-line"></div>
                                 </div>
                                 <!-- Portfolio Modal - Image-->
-                                <img class="img-fluid rounded mb-5" src="assets/img/portfolio/item10.png" alt="..." />
+                                <img class="img-fluid rounded mb-5" src="front/landing/assets/img/Teams/tb.jpg"
+                                    width="250" height="250" alt="Ngademin" />
                                 <!-- Portfolio Modal - Text-->
-                                <p class="mb-4">Description for Item 10</p>
+                                <p class="mb-4">Bread <i class="fa-regular fa-thumbs-up"></i></p>
                                 <button class="btn btn-primary" data-bs-dismiss="modal">
                                     <i class="fas fa-xmark fa-fw"></i>
                                     Close Window
