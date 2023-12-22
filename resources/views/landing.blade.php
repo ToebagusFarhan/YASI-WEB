@@ -135,7 +135,7 @@
                             <div class="portfolio-item-caption-content text-center text-white"><i
                                     class="fas fa-plus fa-3x"></i></div>
                         </div>
-                        <img class="img-fluid" src="front/landing/assets/img/Teams/tb.jpg" alt="..." />
+                        <img class="img-fluid" src="front/landing/assets/img/Teams/Nuraisyah.jpg" alt="..." />
                     </div>
                 </div>
                 <!-- Portfolio Item 7-->
@@ -146,7 +146,7 @@
                             <div class="portfolio-item-caption-content text-center text-white"><i
                                     class="fas fa-plus fa-3x"></i></div>
                         </div>
-                        <img class="img-fluid" src="front/landing/assets/img/Teams/tb.jpg" alt="" alt="..." />
+                        <img class="img-fluid" src="front/landing/assets/img/Teams/Rifda.jpg" alt="" alt="..." />
                     </div>
                 </div>
                 <!-- Portfolio Item 8-->
@@ -168,7 +168,7 @@
                             <div class="portfolio-item-caption-content text-center text-white"><i
                                     class="fas fa-plus fa-3x"></i></div>
                         </div>
-                        <img class="img-fluid" src="front/landing/assets/img/Teams/tb.jpg" alt="..." />
+                        <img class="img-fluid" src="front/landing/assets/img/Teams/Ammara.jpg" alt="..." />
                     </div>
                 </div>
                 <!-- Portfolio Item 10-->
@@ -179,7 +179,7 @@
                             <div class="portfolio-item-caption-content text-center text-white"><i
                                     class="fas fa-plus fa-3x"></i></div>
                         </div>
-                        <img class="img-fluid" src="front/landing/assets/img/Teams/tb.jpg" alt="..." />
+                        <img class="img-fluid" src="front/landing/assets/img/Teams/Adel.jpg" alt="..." />
                     </div>
                 </div>
             </div>
