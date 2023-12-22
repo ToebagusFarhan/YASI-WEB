@@ -457,7 +457,7 @@
                                     <div class="divider-custom-line"></div>
                                 </div>
                                 <!-- Portfolio Modal - Image-->
-                                <img class="img-fluid rounded mb-5" src="front/landing/assets/img/Teams/tb.jpg"
+                                <img class="img-fluid rounded mb-5" src="front/landing/assets/img/Teams/Nuraisyah.jpg"
                                     width="250" height="250" alt="Ngademin" />
                                 <!-- Portfolio Modal - Text-->
                                 <p class="mb-4">Bread <i class="fa-regular fa-thumbs-up"></i></p>
@@ -493,7 +493,7 @@
                                     <div class="divider-custom-line"></div>
                                 </div>
                                 <!-- Portfolio Modal - Image-->
-                                <img class="img-fluid rounded mb-5" src="front/landing/assets/img/Teams/tb.jpg"
+                                <img class="img-fluid rounded mb-5" src="front/landing/assets/img/Teams/Rifda.jpg"
                                     width="250" height="250" alt="Ngademin" />
                                 <!-- Portfolio Modal - Text-->
                                 <p class="mb-4">Bread <i class="fa-regular fa-thumbs-up"></i></p>
@@ -565,7 +565,7 @@
                                     <div class="divider-custom-line"></div>
                                 </div>
                                 <!-- Portfolio Modal - Image-->
-                                <img class="img-fluid rounded mb-5" src="front/landing/assets/img/Teams/tb.jpg"
+                                <img class="img-fluid rounded mb-5" src="front/landing/assets/img/Teams/Ammara.jpg"
                                     width="250" height="250" alt="Ngademin" />
                                 <!-- Portfolio Modal - Text-->
                                 <p class="mb-4">Bread <i class="fa-regular fa-thumbs-up"></i></p>
@@ -600,7 +600,7 @@
                                     <div class="divider-custom-line"></div>
                                 </div>
                                 <!-- Portfolio Modal - Image-->
-                                <img class="img-fluid rounded mb-5" src="front/landing/assets/img/Teams/tb.jpg"
+                                <img class="img-fluid rounded mb-5" src="front/landing/assets/img/Teams/Adel.jpg"
                                     width="250" height="250" alt="Ngademin" />
                                 <!-- Portfolio Modal - Text-->
                                 <p class="mb-4">Bread <i class="fa-regular fa-thumbs-up"></i></p>
