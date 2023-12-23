@@ -38,6 +38,44 @@ class UsersController extends Controller
         }
     }
 
+    public function getUserByEmail($email)
+    {
+        $user = Users::where('email', $email)->first();
+
+        if ($user) {
+            return response()->json([
+                'success' => true,
+                'message' => 'Detail user',
+                'data' => $user
+            ], 200);
+        } else {
+            return response()->json([
+                'success' => false,
+                'message' => 'Data user tidak ditemukan!',
+                'data' => ''
+            ], 404);
+        }
+    }
+
+    public function getUserByUsername($username)
+    {
+        $user = Users::where('username', $username)->first();
+
+        if ($user) {
+            return response()->json([
+                'success' => true,
+                'message' => 'Detail user',
+                'data' => $user
+            ], 200);
+        } else {
+            return response()->json([
+                'success' => false,
+                'message' => 'Data user tidak ditemukan!',
+                'data' => ''
+            ], 404);
+        }
+    }
+
     public function store(Request $request)
     {
         $validateData = $request->validate([

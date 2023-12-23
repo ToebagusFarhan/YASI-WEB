@@ -28,6 +28,8 @@ Route::delete('/informations/id/{id}', [InformationsController::class, 'destroy'
 
 Route::get('/users', [UsersController::class, 'getAllUsers']);
 Route::get('/users/id/{id}', [UsersController::class, 'getUser']);
+Route::get('/users/email/{email}', [UsersController::class, 'getUserByEmail']);
+Route::get('/users/name/{username}', [UsersController::class, 'getUserByUsername']);
 Route::post('/users', [UsersController::class, 'store']);
 Route::put('/users/id/{id}', [UsersController::class, 'updateUser']);
 Route::delete('/users/id/{id}', [UsersController::class, 'destroy']);
