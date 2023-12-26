@@ -98,7 +98,7 @@ class UsersController extends Controller
 
         return response()->json([
             'success' => true,
-            'message' => 'Data produk berhasil ditambahkan',
+            'message' => 'Data User berhasil ditambahkan',
             'data' => $user
         ], 200);
     }
@@ -120,13 +120,13 @@ class UsersController extends Controller
 
             return response()->json([
                 'success' => true,
-                'message' => 'Data produk berhasil diupdate',
+                'message' => 'Data User berhasil diupdate',
                 'data' => $user
             ], 200);
         } else {
             return response()->json([
                 'success' => false,
-                'message' => 'Data produk tidak ditemukan!',
+                'message' => 'Data User tidak ditemukan!',
                 'data' => ''
             ], 404);
         }
@@ -141,13 +141,13 @@ class UsersController extends Controller
 
             return response()->json([
                 'success' => true,
-                'message' => 'Data produk berhasil dihapus',
+                'message' => 'Data User berhasil dihapus',
                 'data' => $user
             ], 200);
         } else {
             return response()->json([
                 'success' => false,
-                'message' => 'Data produk tidak ditemukan!',
+                'message' => 'Data User tidak ditemukan!',
                 'data' => ''
             ], 404);
         }
