@@ -87,8 +87,11 @@ class UsersController extends Controller
             'city_name' => 'required|max:255',
         ]);
 
-        $validateData['created_at'] = Carbon::now()->timezone('Asia/Jakarta');
-        $validateData['updated_at'] = Carbon::now()->timezone('Asia/Jakarta');
+        $timezone = 'Asia/Jakarta';
+        $now = Carbon::now($timezone);
+
+        $validateData['created_at'] = $now;
+        $validateData['updated_at'] = $now;
 
 
         $user = Users::create($validateData);
