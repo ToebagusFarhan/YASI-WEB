@@ -84,7 +84,7 @@ class UsersController extends Controller
             'email' => 'required|max:255',
             'fullname' => 'required|max:255',
             'phone' => 'required|max:255',
-            'city_name' => 'required|max:255',
+            'city_name' => 'max:255',
         ]);
 
         $timezone = 'Asia/Jakarta';
