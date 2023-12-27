@@ -157,7 +157,7 @@
                             <div class="portfolio-item-caption-content text-center text-white"><i
                                     class="fas fa-plus fa-3x"></i></div>
                         </div>
-                        <img class="img-fluid" src="front/landing/assets/img/Teams/tb.jpg" alt="..." />
+                        <img class="img-fluid" src="front/landing/assets/img/Teams/syahril.jpg" alt="..." />
                     </div>
                 </div>
                 <!-- Portfolio Item 9-->
@@ -529,7 +529,7 @@
                                     <div class="divider-custom-line"></div>
                                 </div>
                                 <!-- Portfolio Modal - Image-->
-                                <img class="img-fluid rounded mb-5" src="front/landing/assets/img/Teams/tb.jpg"
+                                <img class="img-fluid rounded mb-5" src="front/landing/assets/img/Teams/syahril.jpg"
                                     width="250" height="250" alt="Ngademin" />
                                 <!-- Portfolio Modal - Text-->
                                 <p class="mb-4">Bread <i class="fa-regular fa-thumbs-up"></i></p>
