@@ -106,12 +106,15 @@ class UsersController extends Controller
     public function updateUser(Request $request, $id)
     {
         $validateData = $request->validate([
-            'username' => 'required|max:255',
             'email' => 'required|max:255',
             'fullname' => 'required|max:255',
             'phone' => 'required|max:255',
-            'city_name' => 'required|max:255',
+
         ]);
+        $timezone = 'Asia/Jakarta';
+        $now = Carbon::now($timezone);
+
+        $validateData['updated_at'] = $now;
 
         $user = Users::find($id);
 
